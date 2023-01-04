@@ -6,3 +6,4 @@ packages.linuxmint.com
 apt.pop-os.org
 archive.ubuntu.com
 ppa.launchpad.net
+ubuntu.com
