@@ -7,3 +7,9 @@ apt.pop-os.org
 archive.ubuntu.com
 ppa.launchpad.net
 ubuntu.com
+ftp.planetmirror.com
+mirror.isp.net.au
+mirror.optus.net
+mirror.pacific.net.au
+mirrors.uwa.edu.au
+planetmirror.com
